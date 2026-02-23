@@ -1,33 +1,57 @@
-<h1 align="center">Hi 👋, I'm SOUMILI GHOSH</h1>
-<h3 align="center">A passionate Computer Science student from India 🇮🇳 aspiring to become a Software Engineer & HFT Quant</h3>
+<h1 align="center">Hi 👋, I'm Soumili Ghosh</h1>
+<h3 align="center">Computer Science Student 🇮🇳 | Aspiring Software Engineer & HFT Quant</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumili1435" alt="soumili1435" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Data Structures & Algorithms in C (Coming Soon – GitHub repository)**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **C Programming, Data Structures, Problem Solving, AI/ML**
+- 🔭 Currently working on **Data Structures & Algorithms in C**
+- 🌱 Learning **C Programming, Data Structures, Problem Solving & AI/ML**
+- 👯 Looking to collaborate on **Beginner-friendly Open Source Projects**
+- 💬 Ask me about **Python, C programming & beginner DSA**
+- 📫 Reach me at **soumili1435@gmail.com**
+- ⚡ Fun fact: I love turning complex logic into clean, efficient code.
 
-- 👯 I’m looking to collaborate on **Beginner-friendly Open Source Projects (Especially related to C, DSA & Web Development)**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/github-soumili1435](https://github.com/github-soumili1435)
+## 🌐 Connect With Me
 
-- 💬 Ask me about **Python,C programming, beginner DSA problems**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumili%20Ghosh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumili-ghosh-973b0b376/)
 
-- 📫 How to reach me **soumili1435@gmail.com**
+[![LeetCode](https://img.shields.io/badge/LeetCode-soumilig-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/soumilig/)
 
-- ⚡ Fun fact **I love solving complex problems and turning logic into clean code.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/soumili-ghosh-973b0b376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/soumili-ghosh-973b0b376" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/soumilig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/soumilig/" height="30" width="40" /></a>
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=soumili1435&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumili1435&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumili1435&show_icons=true&locale=en&layout=compact" alt="soumili1435" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumili1435&show_icons=true&locale=en" alt="soumili1435" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumili1435&" alt="soumili1435" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumili1435&theme=tokyonight" />
+</p>
